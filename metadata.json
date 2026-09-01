@@ -1,0 +1,6 @@
+{
+  "name": "AIRSERVE – Airline Reservation & Management System",
+  "description": "A comprehensive, real-world Airline Reservation and Fleet Operations System powered by custom AVL Trees, Binary Max-Heap Priority Queues, Hash Tables, and Dijkstra Shortest Path Graph algorithms with persistent SQLite database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
